@@ -3,7 +3,7 @@
 An e-commerce app built in React + TypeScript to demonstrate cart logic, data-driven UI rendering, and responsive component layout.
 
 ## Live Demo
-[https://ecommerce-frontend.vercel.app](https://ecommerce-frontend.vercel.app) *(placeholder)*
+[https://ecommerce-frontend.vercel.app](https://ecommerce-frontend-ten-lovat.vercel.app/)
 
 ## Features
 - Product list rendering from mock data
